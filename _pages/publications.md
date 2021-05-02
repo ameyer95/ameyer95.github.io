@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "" # TO DO - once I have publications, change title to publications :)
 permalink: /publications/
 author_profile: true
 ---
@@ -12,5 +12,12 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Non-peer reviewed and unpublished work
+======
+
+{% for post in site.unpublished reversed %}
   {% include archive-single.html %}
 {% endfor %}
