@@ -18,7 +18,6 @@ I graduated from Carleton College in 2018 with a BA in mathematics. Prior to sta
 
 -----
 ## Publications
-**Certifying Robustness to Programmable Data Bias in Decision Trees** <br/>
+**Certifying Robustness to Programmable Data Bias in Decision Trees**  [<a href="https://arxiv.org/abs/2110.04363">arXiv</a>] <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
-Arxiv link coming soon!
