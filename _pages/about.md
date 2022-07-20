@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am an incoming third-year Computer Sciences PhD student at UW-Madison, where I am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). Despite primarily working on machine learning, I am a member of the [MadPL group](https://madpl.cs.wisc.edu/). 
+I am an incoming third-year Computer Sciences PhD student at UW-Madison, where I am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). 
 
 My work is motivated by the question of how we can ensure that technology -- especially machine learning -- is deployed in fair, trustworthy, and socially responsible ways. In particular, my research looks at how to certify robustness for machine learning algorithms in the presence of data poisoning or bias in the training dataset. 
 
