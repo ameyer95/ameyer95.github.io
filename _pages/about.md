@@ -28,8 +28,7 @@ My work is motivated by the question of how we can ensure that technology -- esp
 **The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions** <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *FAccT 2023*<br/>
-[<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/>
-</br> 
+[<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/> 
 **Certifying Robustness to Programmable Data Bias in Decision Trees**  <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
