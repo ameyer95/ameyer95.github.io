@@ -17,14 +17,19 @@ My work is motivated by the question of how we can ensure that technology -- esp
 <!-- I graduated from Carleton College in 2018 with a BA in mathematics. Prior to starting grad school in the fall of 2020, I worked as a software developer at Epic in Madison. In my free time, I enjoy cooking (and eating!), Nordic skiing, reading fiction, running, and being outdoors.  -->
 
 ## News
+* June 2023 - I will attend FAccT '23 in Chicago to present a paper (<a href="https://arxiv.org/abs/2304.10655">The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions</a>) and take part in the Doctoral Consortium 
 * November 2022 - I was selected as a 2023 WISCIENCE [Public Service Fellow](https://wiscience.wisc.edu/service/public-service-fellows/) in the direct service pathway
 * November 2022 - I will be attending my first in-person confernce (NeurIPS 2022) at the end of the month
 * June 2022 - I spent the summer at [Hima Lakkaraju](https://himalakkaraju.github.io/)'s AI4Life lab at Harvard to work on explainable ML
-* April 2022 - I gave a talk on my work certifying data-bias robustness in decision trees at the UW-Madison [CS Research Symposium](https://csresearchsymposium.github.io/)
-* December 2021 - My first paper, Certifying Robustness to Programmable Data Bias in Decision Trees, was published at NeurIPS!
+
 
 -----
 ## Publications
+**The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions** <br/>
+Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
+*FAccT 2023*<br/>
+[<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/>
+</br> 
 **Certifying Robustness to Programmable Data Bias in Decision Trees**  <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
