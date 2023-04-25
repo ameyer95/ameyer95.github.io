@@ -12,7 +12,9 @@ About
 ------
 I am a third-year Computer Sciences PhD student at UW-Madison, where I am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). 
 
-My work is motivated by the question of how we can ensure that technology -- especially machine learning -- is deployed in fair, trustworthy, and socially responsible ways. In particular, I'm interested in the idea that machine learning outcomes often hinge on arbitrary factors in data collection and model training. My research so far has addressed this question by certifying test-time model robustness to small perturbations in the training dataset.
+My work is motivated by the mismatch between machine learning's influence (and presumed authority), and the fact that many machine learning outcomes are arbitrary, i.e., not robust to small changes in the training data, training procedure, or test sample.
+
+To that end, I have worked on certifying the robustness of machine learning models to small changes to the training data. I am also interesting in how we can adjust the training procedure for machine learning models so that the model explanations will be more robust. 
 
 <!-- I graduated from Carleton College in 2018 with a BA in mathematics. Prior to starting grad school in the fall of 2020, I worked as a software developer at Epic in Madison. In my free time, I enjoy cooking (and eating!), Nordic skiing, reading fiction, running, and being outdoors.  -->
 
@@ -33,3 +35,12 @@ Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
 [<a href="https://arxiv.org/abs/2110.04363">pdf</a>] [<a href="/files/dec_trees_slides.pdf">slides</a>] [<a href="https://youtu.be/kf5Geyr71T4">video</a>] [<a href="https://github.com/annapmeyer/antidote-P">code</a>] <br/>
+
+
+-----
+## Preprints
+**On Minimizing the Impact of Dataset Shifts on Actionable Explanations** <br/>
+Anna P. Meyer (+), Dan Ley (+), Suraj Srinivas, and Himabindu Lakkaraju <br/>
+*Under review*<br/>
+
+(+) Equal contribution
