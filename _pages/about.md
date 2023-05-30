@@ -19,10 +19,10 @@ To that end, I have worked on certifying the robustness of machine learning mode
 <!-- I graduated from Carleton College in 2018 with a BA in mathematics. Prior to starting grad school in the fall of 2020, I worked as a software developer at Epic in Madison. In my free time, I enjoy cooking (and eating!), Nordic skiing, reading fiction, running, and being outdoors.  -->
 
 ## News
-* May 2023 - My paper, On Minimizing the Impact of Dataset Shifts on Actionable Explanations, was accepted at UAI!
+* May 2023 - My paper, On Minimizing the Impact of Dataset Shifts on Actionable Explanations, was accepted (with an oral presentation) at UAI
 * April 2023 - This June, I will attend FAccT '23 in Chicago to present a paper (<a href="https://arxiv.org/abs/2304.10655">The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions</a>) and take part in the Doctoral Consortium 
 * November 2022 - I was selected as a 2023 WISCIENCE [Public Service Fellow](https://wiscience.wisc.edu/service/public-service-fellows/) in the direct service pathway
-* November 2022 - I will be attending my first in-person confernce (NeurIPS 2022) at the end of the month
+* November 2022 - I will be attending my first in-person conference (NeurIPS 2022) at the end of the month
 * June 2022 - I spent the summer at [Hima Lakkaraju](https://himalakkaraju.github.io/)'s AI4Life lab at Harvard to work on explainable ML
 
 
@@ -30,12 +30,12 @@ To that end, I have worked on certifying the robustness of machine learning mode
 ## Publications
 **On Minimizing the Impact of Dataset Shifts on Actionable Explanations** <br/>
 Anna P. Meyer (+), Dan Ley (+), Suraj Srinivas, and Himabindu Lakkaraju <br/>
-*UAI 2023*<br/>
+*UAI 2023* <span style="color:red">(*Oral Presentation*)</span><br/>
 [preprint coming soon]<br/>
 **The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions** <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *FAccT 2023*<br/>
-[<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/> 
+[<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://youtu.be/KxsdeJrvym0">video</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/> 
 **Certifying Robustness to Programmable Data Bias in Decision Trees**  <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
