@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ------
-I am a third-year Computer Sciences PhD student at UW-Madison, where I am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). 
+I am a fourth-year Computer Sciences PhD student at UW-Madison, where I am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/). 
 
 My work is motivated by the mismatch between machine learning's influence (and presumed authority), and the fact that many machine learning outcomes are arbitrary, i.e., not robust to small changes in the training data, training procedure, or test sample.
 
@@ -19,11 +19,11 @@ To that end, I have worked on certifying the robustness of machine learning mode
 <!-- I graduated from Carleton College in 2018 with a BA in mathematics. Prior to starting grad school in the fall of 2020, I worked as a software developer at Epic in Madison. In my free time, I enjoy cooking (and eating!), Nordic skiing, reading fiction, running, and being outdoors.  -->
 
 ## News
+* Summer 2023 - Taught a course (CS 220: Data Science Programming 1) during UW's summer session. 
 * May 2023 - My paper, <a href="http://arxiv.org/abs/2306.06716">On Minimizing the Impact of Dataset Shifts on Actionable Explanations</a>, was accepted (with an oral presentation) at UAI
 * April 2023 - This June, I will attend FAccT '23 in Chicago to present a paper (<a href="https://arxiv.org/abs/2304.10655">The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions</a>) and take part in the Doctoral Consortium 
 * November 2022 - I was selected as a 2023 WISCIENCE [Public Service Fellow](https://wiscience.wisc.edu/service/public-service-fellows/) in the direct service pathway
 * November 2022 - I will be attending my first in-person conference (NeurIPS 2022) at the end of the month
-* June 2022 - I spent the summer at [Hima Lakkaraju](https://himalakkaraju.github.io/)'s AI4Life lab at Harvard to work on explainable ML
 
 
 -----
