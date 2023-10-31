@@ -2,7 +2,7 @@
 title: 'PSF 840 Week 9 - Create an academic website'
 date: 2023-10-31
 permalink: /psf/website/
-sidebar: None
+layout: singlefull
 ---
 
 ## Why do I need an academic website?
