@@ -29,7 +29,7 @@ These are very simplified instructions, intended to minimize the amount of codin
 
 > This is a simplified workflow and not how people normally use GitHub. It's fine for these purposes, just be aware of that in case you ever need to use git in the future
 
-See [https://github.com/spookypancakes/spookypancakes.github.io](https://github.com/spookypancakes/spookypancakes.github.io) for an example website and some more tips.
+See [https://spookypancakes.github.io](https://spookypancakes.github.io) for an example website and some more tips.
 
 1. Create a [GitHub](https://github.com/) account. Choose your username carefully: your website URL will be **username**.github.io. 
 
