@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Anna P. Meyer"
   avatar           : "me_icon.jpeg"
-  bio              : "CS PhD student at UW-Madison interested in fair, ethical, and trustworthy machine learning"
-  location         : "Madison, Wisconsin"
+  bio              : ""
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  annameyer@cs.wisc.edu
+  email            :  
+  emailadd         : "apmeyer4 at wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "annapmeyer"
   google_plus      :
   keybase          :
   instagram        :

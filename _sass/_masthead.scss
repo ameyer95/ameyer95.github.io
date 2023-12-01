@@ -5,7 +5,7 @@
 .masthead {
   background-color: $header-background-color;
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1.5px solid $border-color-masthead;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
