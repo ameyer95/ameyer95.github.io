@@ -11,16 +11,14 @@ redirect_from:
 ------
 I research **multiplicity** in machine learning -- the fact that many models may perform equally well on a task according to standard accuracy metrics. Multiplicity can pose a problem for machine learning because individual decisions, if subject to change given multiplicity, become arbitrary. This arbitrariness may be unavoidable, but is often hidden, because alternative models and decisions are not considered.
 
-I specifically focus on how **datasets** impact multiplicity: how different datasets may be equally well suited to a prediction task, yet yield models that behave differently in practice. My work uses techniques from *formal methods* and *machine learning* to computationally measure the impact that dataset multiplicity has on machine learning robustness. 
+My work specifically focuses on how **datasets** impact multiplicity: how different datasets may be equally well suited to a prediction task, yet yield models that behave differently in practice. My work uses techniques from *formal methods* and *machine learning* to computationally measure the impact that dataset multiplicity has on machine learning robustness. I am also branching out to using techniques from human-computer interaction to study gain a deeper understanding of how multiplicity in machine learning impacts fairness. 
 
-I'm currently in my fourth year in the Computer Sciences PhD program at UW-Madison. I'm part of the [MadPL](https://madpl.cs.wisc.edu/) group and am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/).
+I'm currently in my fourth year in the Computer Sciences PhD program at the University of Wisconsin - Madison. I'm part of the [MadPL](https://madpl.cs.wisc.edu/) group and am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/).
 
 ## News
-* Summer 2023 - Taught a course (CS 220: Data Science Programming 1) during UW's summer session. 
-* May 2023 - My paper, <a href="http://arxiv.org/abs/2306.06716">On Minimizing the Impact of Dataset Shifts on Actionable Explanations</a>, was accepted (with an oral presentation) at UAI
-* April 2023 - This June, I will attend FAccT '23 in Chicago to present a paper (<a href="https://arxiv.org/abs/2304.10655">The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions</a>) and take part in the Doctoral Consortium 
-* November 2022 - I was selected as a 2023 WISCIENCE [Public Service Fellow](https://wiscience.wisc.edu/service/public-service-fellows/) in the direct service pathway
-
+* March 2024 - This May, I will attend the [DMLR workshop](https://dmlr.ai/) at ICLR to present our paper, Verified Training for Counterfactual Explanation Robustness under Data Shift.
+* Fall 2023 - As part of the [STEM Public Service Fellows](https://wiscience.wisc.edu/service/public-service-fellows/) program, I am working with UW-Madison's [Data Science Hub](https://datascience.wisc.edu/hub/) to develop a workshop on fair and explainable machine learning. 
+* Summer 2023 - I taught a course (CS 220: Data Science Programming 1) during UW-Madison's summer session. 
 
 -----
 ## Publications
@@ -36,6 +34,14 @@ Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
 [<a href="https://arxiv.org/abs/2110.04363">pdf</a>] [<a href="/files/dec_trees_slides.pdf">slides</a>] [<a href="https://youtu.be/kf5Geyr71T4">video</a>] [<a href="https://github.com/annapmeyer/antidote-P">code</a>] <br/>
+
+
+-----
+## Preprints and workshop papers
+**Verified Training for Counterfactual Explanation Robustness under Data Shift** <br/>
+Anna P. Meyer (+), Yuhao Zhang (+), Aws Albarghouthi, and Loris D'Antoni <br/>
+*DMLR workshop at ICLR 2024*<br/>
+Link to paper and code coming soon.
 
 
 (+) Equal contribution
