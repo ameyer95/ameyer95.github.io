@@ -22,6 +22,8 @@ I'm currently in my fourth year in the Computer Sciences PhD program at the Univ
 
 -----
 ## Publications
+(+) Equal contribution
+
 **On Minimizing the Impact of Dataset Shifts on Actionable Explanations** <br/>
 Anna P. Meyer (+), Dan Ley (+), Suraj Srinivas, and Himabindu Lakkaraju <br/>
 *UAI 2023* <span style="color:red">(*Oral Presentation*)</span><br/>
@@ -41,7 +43,5 @@ Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 **Verified Training for Counterfactual Explanation Robustness under Data Shift** <br/>
 Anna P. Meyer (+), Yuhao Zhang (+), Aws Albarghouthi, and Loris D'Antoni <br/>
 *DMLR workshop at ICLR 2024*<br/>
-Link to paper and code coming soon.
+[<a href="https://arxiv.org/abs/2403.03773">pdf</a>] [<a href="https://github.com/ForeverZyh/robust_cfx">code</a>] <br/>
 
-
-(+) Equal contribution
