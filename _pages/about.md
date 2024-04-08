@@ -16,6 +16,7 @@ My work specifically focuses on how **datasets** impact multiplicity: how differ
 I'm currently in my fourth year in the Computer Sciences PhD program at the University of Wisconsin - Madison. I'm part of the [MadPL](https://madpl.cs.wisc.edu/) group and am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/).
 
 ## News
+* April 2024 - Passed my preliminary exam and became a PhD candidate :party:
 * March 2024 - This May, I will attend the [DMLR workshop](https://dmlr.ai/) at ICLR to present our paper, Verified Training for Counterfactual Explanation Robustness under Data Shift.
 * Fall 2023 - As part of the [STEM Public Service Fellows](https://wiscience.wisc.edu/service/public-service-fellows/) program, I am working with UW-Madison's [Data Science Hub](https://datascience.wisc.edu/hub/) to develop a workshop on fair and explainable machine learning. 
 * Summer 2023 - I taught a course (CS 220: Data Science Programming 1) during UW-Madison's summer session. 
