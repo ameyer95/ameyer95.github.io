@@ -13,9 +13,10 @@ I research **multiplicity** in machine learning -- the fact that many models may
 
 My work specifically focuses on how **datasets** impact multiplicity: how different datasets may be equally well suited to a prediction task, yet yield models that behave differently in practice. My work uses techniques from *formal methods* and *machine learning* to computationally measure the impact that dataset multiplicity has on machine learning robustness. I am also branching out to using techniques from human-computer interaction to study gain a deeper understanding of how multiplicity in machine learning impacts fairness. 
 
-I'm currently in my fifth year in the Computer Sciences PhD program at the University of Wisconsin - Madison. I'm part of the [MadPL](https://madpl.cs.wisc.edu/) group and am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/).
+I am currently a final-year PhD candidate in the Computer Sciences PhD program at the University of Wisconsin - Madison. I'm part of the [MadPL](https://madpl.cs.wisc.edu/) group and am co-advised by [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/) and [Loris D'Antoni](https://pages.cs.wisc.edu/~loris/).
 
 ## News
+* October 2024 - Attended the INFORMS conference in Seattle to present my work on dataset multiplicity. 
 * April 2024 - Passed my preliminary exam and became a PhD candidate!
 * March 2024 - This May, I will attend the [DMLR workshop](https://dmlr.ai/) at ICLR to present our paper, Verified Training for Counterfactual Explanation Robustness under Data Shift.
 * Fall 2023 - As part of the [STEM Public Service Fellows](https://wiscience.wisc.edu/service/public-service-fellows/) program, I am working with UW-Madison's [Data Science Hub](https://datascience.wisc.edu/hub/) to develop a workshop on fair and explainable machine learning. 
@@ -41,6 +42,12 @@ Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 
 -----
 ## Preprints and workshop papers
+
+**Perceptions of the Fairness Impacts of Multiplicity in Machine Learning** <br/>
+Anna P. Meyer, Yea-Seul Kim,  Aws Albarghouthi, and Loris D'Antoni <br/>
+*Under submission* <br/>
+[<a href="https://arxiv.org/abs/2409.12332">pdf</a>]
+
 **Verified Training for Counterfactual Explanation Robustness under Data Shift** <br/>
 Anna P. Meyer (+), Yuhao Zhang (+), Aws Albarghouthi, and Loris D'Antoni <br/>
 *DMLR workshop at ICLR 2024*<br/>
