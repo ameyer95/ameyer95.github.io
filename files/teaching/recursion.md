@@ -6,7 +6,7 @@ layout: singlefull
 ---
 
 ## Setup
-Download the starter code file [here](https://annapmeyer.github.io/teaching/recursion.py). 
+Download the starter code file [here](https://github.com/annapmeyer/annapmeyer.github.io/raw/refs/heads/anna/files/teaching/recursion.py). 
 
 Solve the following exercises with a partner. 
 
