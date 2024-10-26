@@ -10,6 +10,18 @@ def is_palindrome(str):
 
 ## Exercise 1
 
+def triangular(n):
+    return 0
+
+# Test cases (uncomment these when you're ready to test your code)
+# print(triangular(0)) # 0
+# print(triangular(1)) # 1
+# print(triangular(2)) # 3
+# print(triangular(5)) # 15
+# print(triangular(10)) # 55
+
+## Exercise 2
+
 def reverse_string(str):
     return ""
 
@@ -21,7 +33,7 @@ def reverse_string(str):
 # print(reverse_string("This is a very long string compared to the others")) # "srehto eht ot deretne si gnirts gnol yrev a si sihT"
 
 
-## Exercise 2
+## Exercise 3
 
 def nested_list_depth_2(lst, target):
     ''' 
@@ -63,29 +75,17 @@ depth_5_lst = [1, [2, [3, [4, [5]]]], 6]
 # print(nested_list_recursive(depth_5_lst, 5)) # True
 # print(nested_list_recursive(depth_5_lst, 7)) # False
 
-## Exercise 3
-
-def triangular(n):
-    return 0
-
-# Test cases (uncomment these when you're ready to test your code)
-# print(triangular(0)) # 0
-# print(triangular(1)) # 1
-# print(triangular(2)) # 3
-# print(triangular(5)) # 15
-# print(triangular(10)) # 55
-
 ## Exercise 4
 
-def fibonacci(n):
+def fibonacci_recursive(n):
     return 0
 
 # Test cases (uncomment these when you're ready to test your code)
-# print(fibonacci(0)) # 0
-# print(fibonacci(1)) # 1
-# print(fibonacci(2)) # 1
-# print(fibonacci(5)) # 5
-# print(fibonacci(10)) # 55
+# print(fibonacci_recursive(0)) # 0
+# print(fibonacci_recursive(1)) # 1
+# print(fibonacci_recursive(2)) # 1
+# print(fibonacci_recursive(5)) # 5
+# print(fibonacci_recursive(10)) # 55
 
 ## Exercise 5
 

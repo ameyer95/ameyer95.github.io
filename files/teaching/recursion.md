@@ -22,7 +22,7 @@ Write a recursive function that checks whether a string is a palindrome.
 
 ## Exercise 1: Triangular numbers
 
-The nth triangular number is the sum 1 + .... + n. For instance, the 5th triangular number is 15 = 1 + 2 + 3 + 4 + 5. Write a function to recursively compute the nth triangular number. 
+The *n*th triangular number is the sum $1 + .... + n$. For instance, the 5th triangular number is $15 = 1 + 2 + 3 + 4 + 5$. Write a function to recursively compute the *n*th triangular number. 
 
 * What is the base case?
 * How is this function different from `factorial_recursive()` that we talked about at the start of class?
@@ -32,7 +32,7 @@ I want to convert a string to be read backwards. For instance, "hello" should be
 
 Write a function to do this recursively. 
 
-* What is the base case? (*Hint:* what is the reverse of `"a"`?) 
+* What is the base case? (*Hint:* what is the reverse of `"a"`? What about of `""`?) 
 * What is the recursive case?
 
 ## Exercise 3: Nested list target matching
@@ -42,18 +42,18 @@ Suppose that I have a *nested list*. Each entry in the list is either an integer
 1. Look at the code for `nested_list_depth_2`. This is an *iterative* function (i.e., uses a `for` or `while` loop) that checks whether a target integer is in a nested list with up to two levels.
 * How would you have to modify this function to solve the problem for a list with up to 3 levels, e.g., `[1, [2, [3, 4], 5], 6]`? Is this modification scalable for lists that are arbitrarily deep?
 
-2. Write a *recursive* function that checks whether a target integer is in a nested list of any depth. 
+2. Write a recursive function that checks whether a target integer is in a nested list of any depth. *Hint:* Even though you're using recursion, you may still need to iterate over list entries with a `for` loop.   
 
 * What is the base case? (*Hint:*  What would a function called `nested_list_depth_1` look like?)
 * How many recursive calls are there for the input `[1, [2, 3], [4, [5, 6, [7, 8], 9], [10, 11]], 12]`? 
 
-*Hint:* Even though you're using recursion, you may still need to iterate over list entries with a `for` loop.   
+
 
 
 ## Exercise 4: Fibonacci sequence
-The Fibonacci sequence is defined as 0, 1, 1, 2, 3, 5, 8, 13, .... That is, given the starting values $F_0$=0 and $F_1$=1, the nth Fibonacci number for $n\geq 2$ is $F_n=F_{n-1} + F_{n-2}$. 
+The Fibonacci sequence is defined as 0, 1, 1, 2, 3, 5, 8, 13, .... That is, given the starting values $F_0$=0 and $F_1$=1, the *n*th Fibonacci number for $n\geq 2$ is $F_n=F_{n-1} + F_{n-2}$. 
 
-Write a recursive function to compute the nth Fibonacci number, for `$n\geq 0$. 
+Write a recursive function to compute the *n*th Fibonacci number, for $n\geq 0$. 
 
 *Hint:* You may want to include more than one base case.
 
@@ -61,13 +61,11 @@ Write a recursive function to compute the nth Fibonacci number, for `$n\geq 0$.
 
 ## Exercise 5: Binary to decimal (Challenge!)
 
-Behind the scenes, computer code is compiled to *binary*, i.e., base-2 numbers that are strings of 0's and 1's. For instance, `10` represents 2 and `101` represents 5. 
+Behind the scenes, computer code is compiled to *binary*, i.e., base-2 numbers that are strings of 0's and 1's. For instance, `"10"` represents 2 and `"101"` represents 5. 
 
-Recall that we can decompose *decimal* (base-10) numbers to be written as powers of 10. For instance, 2345 can be written as `$2\times 10^3 + 3\times 10^2 + 4 \times 10^1 + 5\times 10^0$`. 
+Recall that we can decompose *decimal* (base 10) numbers to be written as powers of 10. For instance, 2345 can be written as $2\cdot 10^3 + 3\times 10^2 + 4 \times 10^1 + 5\times 10^0$. 
 
-Likewise, we can convert a binary string to base 10 by writing it as a sum of powers of 2. For instance, `$"10" = 1 \times 2^1 + 0 \times 2^0 = 2$`, `$"101" = 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$`, and 
-
-``$"1010111" = 1\times 2^6 + 0 \times 2^5 + 1\times 2^4 + 0 \times 2^3 + 1\times 2^2 + 1\times 2^1 + 1\times 2^0 = 64 + 16 + 4  + 2 + 1 = 87$``
+Likewise, we can convert a binary string to base 10 by writing it as a sum of powers of 2. For instance, `"10"`$= 1 \times 2^1 + 0 \times 2^0 = 2$, `"101"`$= 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$, and `"1010111"`$= 1\times 2^6 + 0 \times 2^5 + 1\times 2^4 + 0 \times 2^3 + 1\times 2^2 + 1\times 2^1 + 1\times 2^0 = 64 + 16 + 4  + 2 + 1 = 87$
 
 For this problem, you will convert a binary string of 0's and 1's to a base-ten integer using recursion. 
 
