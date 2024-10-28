@@ -1,6 +1,5 @@
-# Exercises for CS 111: Intro to CS at Carleton College
-# By: Anna Meyer
-# Examples borrowed from current and former Carleton professors including: TODO
+# Exercises for CS 111: Intro CS at Carleton College
+# Recursion
 
 ## Exercise 0
 
