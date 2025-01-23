@@ -34,10 +34,12 @@ Anna P. Meyer, Yea-Seul Kim,  Aws Albarghouthi, and Loris D'Antoni <br/>
 Anna P. Meyer (+), Dan Ley (+), Suraj Srinivas, and Himabindu Lakkaraju <br/>
 *UAI 2023* <span style="color:red">(*Oral Presentation*)</span><br/>
 [<a href="http://arxiv.org/abs/2306.06716">pdf</a>] [<a href="https://github.com/AI4LIFE-GROUP/robust-grads">code</a>]<br/>
+
 **The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions** <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *FAccT 2023*<br/>
 [<a href="https://arxiv.org/abs/2304.10655">pdf</a>] [<a href="https://youtu.be/KxsdeJrvym0">video</a>] [<a href="https://github.com/annapmeyer/linear-bias-certification">code</a>] <br/> 
+
 **Certifying Robustness to Programmable Data Bias in Decision Trees**  <br/>
 Anna P. Meyer, Aws Albarghouthi, and Loris D'Antoni <br/>
 *NeurIPS 2021*<br/>
